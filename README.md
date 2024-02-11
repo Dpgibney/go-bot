@@ -1,1 +1,1 @@
-Deep learning project following along with "Deep learning and the game of go"
+Deeplearning project based of off "Deep learning and the game of go"
